@@ -39,4 +39,4 @@ Special thanks to the following technologies and tools that made this project po
 
 ---
 
-&copy; 2024 Dr. Rahul Chawla Template. All rights reserved.
+&copy; 2025 Dr. Rahul Chawla Template. All rights reserved.
