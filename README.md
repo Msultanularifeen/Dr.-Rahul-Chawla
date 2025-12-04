@@ -3,8 +3,7 @@
 A premium, modern, and responsive healthcare portfolio website designed for medical entrepreneurs, clinics, and consultants. Built with a focus on trust, clarity, and medical professionalism.
 
 ## 🚀 Live Demo
-
-[Link to your Vercel deployment would go here]
+https://dr-rahul-chawla.vercel.app/
 
 ## ✨ Features
 
