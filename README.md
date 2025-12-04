@@ -1,20 +1,43 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Dr. Rahul Chawla - Healthcare Entrepreneur Portfolio
 
-# Run and deploy your AI Studio app
+A premium, modern, and responsive healthcare portfolio website designed for medical entrepreneurs, clinics, and consultants. Built with a focus on trust, clarity, and medical professionalism.
 
-This contains everything you need to run your app locally.
+## 🚀 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ZnfqfT-NttODpUTOkiTXVnDhmWqHFiXt
+[Link to your Vercel deployment would go here]
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- **Modern Tech Stack**: Built with React 19, Tailwind CSS, and Lucide React icons.
+- **Responsive Design**: Mobile-first approach ensuring perfect rendering on all devices.
+- **Clean Aesthetic**: Medical-grade color palette (Navy Blue, Teal, White) with rounded UI elements.
+- **Interactive Sections**:
+  - Hero Section with value proposition.
+  - Detailed Services & Expertise grid.
+  - Testimonials slider for social proof.
+  - Blog/Insights section with modal reading view.
+  - Functional Contact Form with validation states.
+- **Performance**: Lightweight architecture for fast loading times.
 
+## 💼 For Sale / Customization
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This professional website template is **available for sale** and full customization. It is perfect for doctors, dentists, healthcare consultants, and medical startups looking for a premium online presence.
+
+**Contact the Developer for pricing and setup:**
+
+*   **Developer**: Muhammad Sultan Ul Arifeen
+*   **Email**: [msultanularifeenofficial@gmail.com](mailto:msultanularifeenofficial@gmail.com)
+*   **WhatsApp**: [+92 302 6082703](https://wa.me/923026082703)
+
+## 🛠️ Credits & Acknowledgements
+
+Special thanks to the following technologies and tools that made this project possible:
+
+*   **Programming Support**: [Google Gemini 3.0 Pro](https://ai.google.dev/) - For advanced code generation and architectural guidance.
+*   **Hosting**: [Vercel](https://vercel.com) - For seamless deployment and hosting.
+*   **Version Control**: [GitHub](https://github.com) - For code management and collaboration.
+*   **Design & Development**: **Muhammad Sultan Ul Arifeen**
+
+---
+
+&copy; 2024 Dr. Rahul Chawla Template. All rights reserved.
