@@ -25,17 +25,22 @@ const DeveloperCredit = () => {
         </button>
 
         <div className="flex items-start space-x-3">
-          <div className="bg-teal-100 p-2 rounded-full">
+          <div className="bg-teal-100 p-2 rounded-full mt-1">
             <Code className="h-5 w-5 text-teal-600" />
           </div>
           <div>
-            <p className="text-sm font-semibold text-navy-900 mb-1">
+            <div className="flex items-center gap-2 mb-2">
+                <span className="bg-teal-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase tracking-wider shadow-sm">
+                  Website For Sale
+                </span>
+            </div>
+            <p className="text-sm font-semibold text-navy-900 mb-0.5">
               Designed & Developed by
             </p>
             <p className="text-sm font-bold text-teal-700 mb-2">
               Muhammad Sultan Ul Arifeen
             </p>
-            <div className="space-y-1">
+            <div className="space-y-1 mb-3">
               <a href="mailto:msultanularifeenofficial@gmail.com" className="flex items-center text-xs text-slate-600 hover:text-teal-600">
                 <Mail className="h-3 w-3 mr-1.5" />
                 msultanularifeenofficial@gmail.com
@@ -44,6 +49,12 @@ const DeveloperCredit = () => {
                 <MessageCircle className="h-3 w-3 mr-1.5" />
                 +92 302 6082703
               </a>
+            </div>
+            
+            <div className="pt-2 border-t border-slate-100">
+               <p className="text-[10px] text-slate-400 leading-tight">
+                 Tech Support by <span className="font-medium text-slate-500">Gemini 3.0 Pro</span>, GitHub & Vercel.
+               </p>
             </div>
           </div>
         </div>
